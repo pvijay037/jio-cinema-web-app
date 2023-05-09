@@ -1,5 +1,6 @@
 # jio-cinema-web-app
-![image](https://github.com/pvijay037/jio-cenima-web-app/assets/95902517/bf3ee306-e2d1-4250-b929-f268e891641d)
+![image](https://github.com/pvijay037/jio-cinema-web-app/assets/95902517/1555bc9a-2ccf-4630-bcff-d7106682d02e)
+
 this is  a simple webiste created using html and css .
 # Table of Contents
 ### Project Overview
