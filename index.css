@@ -1,0 +1,117 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+#container{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+}
+img{
+    width: 40px;
+}
+.img-btn{
+    display:flex; 
+    align-items: center; 
+}
+span{
+    
+    padding-left: 10px;
+    color: white;
+    
+}
+a{
+    margin: 15px;
+    text-decoration: none;
+    font-family: Inter;
+    color: white;
+}
+.a-btn{
+    display: flex;
+    justify-content: center;
+   
+}
+#main-btn{
+    width: 100%;
+    /* background-color: red; */
+}
+.back-btn{
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    float: left;
+    position: relative;
+}
+.back-btn img{
+   
+    width: 100%;
+    border-radius: 30px;
+    opacity: 0.6;
+
+}
+p{
+    color: white;
+}
+.back-btn1 p{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+section{
+    margin: 2%;
+   
+}
+.sec-btn img{
+   border: 2px solid black;
+    width: 100%;
+}
+
+#foot-btn{
+   display: flex;
+    /* background-color: blue; */
+    justify-content: space-evenly;
+}
+.foot-btn1 {
+    text-align: center;
+}
+.foot-btn1 span{
+    font-size: large;
+}
+h4{
+    padding: 12%;
+    padding-bottom: 0;
+    padding-top: 0;
+    color: white;
+}
+input{
+    height: 34px;
+    margin-left: 8px;
+    background-color: transparent;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+button{
+    padding: 12px;
+    margin-left: 9px;
+    border-radius: 3px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+
+}
+
+#foot-btnn{
+    height: 24px;
+    background-color: rgb(135 136 138);
+    text-align: center;
+    color: white;
+    
+}
+
+
