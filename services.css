@@ -10,22 +10,6 @@ body{
     justify-content: space-between;
     align-items: center;
 }
-
-#hea{
-    background-color: white;
-    height: 100vh;
-    padding-bottom: 80px;
-}
-.news1{
-    margin-top: 40px;
-    margin-bottom: 3px;
-    margin-left: 40px;
-}
-.hea-img{
-    width: 99vw;
-}
-
-
 img{
     width: 40px;
 }
